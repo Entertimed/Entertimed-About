@@ -1170,7 +1170,7 @@ class AboutVideoComponent {
     }
 }
 AboutVideoComponent.ɵfac = function AboutVideoComponent_Factory(t) { return new (t || AboutVideoComponent)(); };
-AboutVideoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutVideoComponent, selectors: [["app-about-video"]], decls: 4, vars: 0, consts: [[1, "wrapper", "p-d-flex", "p-jc-center", "p-ai-center"], [1, "component-wrapper"], [1, "video-wrapper"], ["width", "100%", "height", "100%", "src", "https://www.youtube.com/watch?v=U824mdLzRJA", "title", "Entertimed Introduction", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""]], template: function AboutVideoComponent_Template(rf, ctx) { if (rf & 1) {
+AboutVideoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutVideoComponent, selectors: [["app-about-video"]], decls: 4, vars: 0, consts: [[1, "wrapper", "p-d-flex", "p-jc-center", "p-ai-center"], [1, "component-wrapper"], [1, "video-wrapper"], ["width", "100%", "height", "100%", "src", "https://www.youtube.com/embed/U824mdLzRJA", "title", "Entertimed Introduction", "frameborder", "0", "allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", "allowfullscreen", ""]], template: function AboutVideoComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
